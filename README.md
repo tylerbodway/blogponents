@@ -14,6 +14,10 @@ A beautiful, modern blog layout, boiled down to it's
 essential blocks to help content
 writers add/update with as little settings as possible.
 
+![alt text](https://raw.githubusercontent.com/tylerbodway/blogponents/master/src/assets/images/demo.gif)
+
+Demo at [https://blogponents.netlify.com](https://blogponents.netlify.com)
+
 ## Build Setup
 
 ``` bash
