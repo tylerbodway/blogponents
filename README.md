@@ -16,7 +16,7 @@ writers add/update with as little settings as possible.
 
 ![alt text](https://raw.githubusercontent.com/tylerbodway/blogponents/master/src/assets/images/demo.gif)
 
-Demo at [https://blogponents.netlify.com](https://blogponents.netlify.com)
+Demo at [https://blogponents.tylerbodway.com](https://blogponents.tylerbodway.com)
 
 ## Build Setup
 
